@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="DESAFIO CSS.css">
+    <title>Site WS Frescobol</title>
+  </head>
+
+<body>
+    <header>
+    <div class="titulo">
+    <h1> Pratique esporte! Jogue frescobol!</h1>
+        
+    <div class="menu">
+    </div>
+    
+<nav>
+    <a href="#"> <Menu></Menu></a>
+<ul>
+        <li><a href="#Início" type="button class="cta">Início</a></li>
+        <li><a href="#Eventos"type="button class="cta"> Eventos</a></li>
+        <li><a href="#Saiba mais"type="button class="cta"> Saiba mais </a></li>
+        <li><a href="#Galeria de fotos"type="button class="cta"> Galeria de Fotos </a></li>
+</ul> 
+</nav>
+
+    </header>   
+
+    <section id="presentation">
+        <div class="presentation container">
+            <div>
+                <h1>Muito prazer,<span></span></h1>
+                <h1>meu nome é<span></span></h1>
+                <h1>Wagner Silva<span></span></h1>
+                <a href="#portfolio" type="button" class="cta">Portifólio</a>
+    </section>
+
+    <main>
+    <section id="portfolio">
+        <div class="portfolio container">
+            <div class="portfolio header">
+                <h1 class="section-title"><span>Portifólio</span></h1>
+            </div>
+            <div class="all-projects">
+                <div class="project-item">
+                    <div class="project-info">
+                        <h1>Raquetes de frescobol</h1>
+                        <h2>Venda e aluguel de raquetes</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec eros leo. Vestibulum
+                            aliquam vel libero eget porttitor. Nunc nisl nunc, suscipit quis quam ut, congue fermentum
+                            ipsum. In consectetur, leo a accumsan eleifend, tortor leo eleifend nunc, sed pulvinar neque
+                            urna vitae dui.</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="./desafio1/variasraquetes.jpg" alt="raquete ws">
+                    </div>
+                </div>
+                <div class="project-item">
+                    <div class="project-info">
+                        <h1>Aulas de frescobol</h1>
+                        <h2>Iniciantes e Profissionais</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec eros leo. Vestibulum
+                            aliquam vel libero eget porttitor. Nunc nisl nunc, suscipit quis quam ut, congue fermentum
+                            ipsum. In consectetur, leo a accumsan eleifend, tortor leo eleifend nunc, sed pulvinar neque
+                            urna vitae dui.</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="./desafio1/aula.jpg" alt="aulas frescobol">
+                    </div>
+                </div>
+                <div class="project-item">
+                    <div class="project-info">
+                        <h1>Acessórios </h1>
+                        <h2>Grip para cabo</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec eros leo. Vestibulum
+                            aliquam vel libero eget porttitor. Nunc nisl nunc, suscipit quis quam ut, congue fermentum
+                            ipsum. In consectetur, leo a accumsan eleifend, tortor leo eleifend nunc, sed pulvinar neque
+                            urna vitae dui.</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="./desafio1/grip.jpg" alt="grip">
+                    </div>
+                </div>
+                <div class="project-item">
+                    <div class="project-info">
+                        <h1>Campeonato de frescobol</h1>
+                        <h2>Treinamento frescobol competição</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec eros leo. Vestibulum
+                            aliquam vel libero eget porttitor. Nunc nisl nunc, suscipit quis quam ut, congue fermentum
+                            ipsum. In consectetur, leo a accumsan eleifend, tortor leo eleifend nunc, sed pulvinar neque
+                            urna vitae dui.</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="./desafio1/campeonato.jpg" alt="atleta ws">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+    <div class="footer">
+       <h1> WS Raquetes de Frescobol</h1>
+        <address>
+             <p><a  href="https://sites.google.com/view/raquetedefrescobol/">www.wsfrescobol.com</a><br></p>
+             <p>Se quiser falar comigo <a href="mailto:wsfrescobol@hotmail.com">clique aqui</a>.<br></p>
+             <p>Whatsapp +55 (85) 99365-1785 </p>
+             <p>Praia do Futuro - Fortaleza / Ceará - Brasil <br></p>
+            
+        </address>
+        </div>   
+</div>
+</body> 
+</html>
